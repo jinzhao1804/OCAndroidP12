@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OCAndroidP9"
+rootProject.name = "OCAndroidP12"
 include(":app")
  

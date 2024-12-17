@@ -1,4 +1,4 @@
-package com.example.ocandroidp9
+package com.example.ocandroidp12.ui.all
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,9 +11,9 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.ocandroidp9.ui.theme.OCAndroidP9Theme
+import com.example.ocandroidp12.ui.theme.OCAndroidP9Theme
 
-class MainActivity : ComponentActivity() {
+class AllActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
